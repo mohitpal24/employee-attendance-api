@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+app/static/
+DEMO_SCRIPT.md
